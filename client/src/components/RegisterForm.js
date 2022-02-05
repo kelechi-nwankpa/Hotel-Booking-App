@@ -46,7 +46,7 @@ const RegisterForm = ({
             />
         </div>
 
-        <button className="btn btn-primary">Submi</button>
+        <button className="btn btn-primary">Sub</button>
     </form>)
 
 }
